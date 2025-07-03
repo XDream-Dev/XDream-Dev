@@ -5,7 +5,7 @@
 ### 💫 Full-Stack Developer | SEO Consultant | Creative Technologist
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F718&background=0D111700&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Optimizing+digital+visibility;Turning+ideas+into+reality;Creating+with+code+and+creativity)
-<img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1ubjRqdm8yZ2FpeHlzZGNxdDhxYmZ4MG5rZXltZzU4eDRtcDBxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
+<img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMyZGM4cmV1N3l3M3pqeDM2dGRzcGY3OWFoeGVkamY3ZTQ2ZnJmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pwwcBKzmnHLzsX5UOU/giphy.gif" align="center" width="auto">
 </div>
 
 ---
