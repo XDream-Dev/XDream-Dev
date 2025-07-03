@@ -1,10 +1,10 @@
-<div align="center">
+<div align="center ">
   
 # ✨ Nabil Lemriki ✨
 
 ### 💫 Full-Stack Developer | SEO Consultant | Creative Technologist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F718&background=0D111700&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Optimizing+digital+visibility;Turning+ideas+into+reality;Creating+with+code+and+creativity)](https://git.io/typing-svg)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F718&background=0D111700&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Optimizing+digital+visibility;Turning+ideas+into+reality;Creating+with+code+and+creativity)
 
 </div>
 
