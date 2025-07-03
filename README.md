@@ -5,38 +5,48 @@
 ### 💫 Full-Stack Developer | SEO Consultant | Creative Technologist
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F718&background=0D111700&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Optimizing+digital+visibility;Turning+ideas+into+reality;Creating+with+code+and+creativity)
-
+<img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXYwM2gwZmd6eTdwaXZzdHg2bG85d25zcjNqcDB3bzZkc28zbW1mcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NmmUoxTjpj0CDGm1Qj/giphy.gif">
 </div>
 
 ---
 
-## 🔥 Tech Stack Superpowers
+## 🔮 Tech Stack Superpower
 
-<div align="center">
+<div align="center" style="margin: 2rem 0;">
   
-### 🛠️ Languages & Frameworks
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" align="center"> Languages & Frameworks
 
-### 🗃️ Databases & Tools
-  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1.5rem 0; background: rgba(255,255,255,0.05); backdrop-filter: blur(8px); padding: 20px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.1);">
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://python.org)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://djangoproject.com)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://reactjs.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://dotnet.microsoft.com)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://java.com)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://php.net)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://docker.com)
+
 </div>
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" align="center"> Databases & Tools
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1.5rem 0; background: rgba(255,255,255,0.05); backdrop-filter: blur(8px); padding: 20px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.1);">
+
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://postgresql.org)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://microsoft.com/sql-server)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://aws.amazon.com)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://wordpress.org)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://figma.com)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://adobe.com/photoshop)
+[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://notion.so)
+[![Ahrefs](https://img.shields.io/badge/-Ahrefs-1E1E1E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzUuNCAwIDAgNS40IDAgMTJzNS40IDEyIDEyIDEyIDEyLTUuNCAxMi0xMlMxOC42IDAgMTIgMHptMCAyMmMtNS41IDAtMTAtNC41LTEwLTEwUzYuNSAyIDEyIDJzMTAgNC41IDEwIDEwLTQuNSAxMC0xMCAxMHptLTMtMTVoMnYxMGgtMlY3em0zIDBoMnYxMGgtMlY3eiIvPjwvc3ZnPg==&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://ahrefs.com)
+[![SEMrush](https://img.shields.io/badge/-SEMrush-FF6C37?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzUuNCAwIDAgNS40IDAgMTJzNS40IDEyIDEyIDEyIDEyLTUuNCAxMi0xMlMxOC42IDAgMTIgMHptMCAyMmMtNS41IDAtMTAtNC41LTEwLTEwUzYuNSAyIDEyIDJzMTAgNC41IDEwIDEwLTQuNSAxMC0xMCAxMHptMC0xOGMtNC40IDAtOCAzLjYtOCA4czMuNiA4IDggOCA4LTMuNiA4LThzLTMuNi04LTgtOHptMSAxM2gtMnYtN2gydjd6bTAtOWgtMnYtMmgydjJ6Ii8+PC9zdmc+&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://semrush.com)
+</div>
+</div>
 ---
 
 ## 🌟 Specializations
