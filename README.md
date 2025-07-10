@@ -129,8 +129,6 @@
 
 <div align="center">
   
-![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=XDream-Dev&show_icons=true&theme=radical&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=XDream-Dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDream-Dev&layout=compact&theme=radical&hide_border=true)
