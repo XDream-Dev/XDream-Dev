@@ -1,21 +1,31 @@
-
-<div align="center">
-  
-# ✨ Nabil Lemriki ✨ 
-<div align="center">
+<div align ="center">
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=XDream-Dev.XDream-Dev)
+
+</div>
+<div align="center">
+
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF5dHlnczR6cTZwczRlNGliYTUxbmZhbXNiMHBrcm40a3h4MmFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJpBcOBU3jLTerZepI/giphy.gif" width="80">  Nabil Lemriki <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZoYnU1dDRzc25maWwwb2V6c2dwdXY4MjZjNW1uaGp4ZmE1czJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3OvvEXh9MU5246asQl/giphy.gif" width="80">
+
+<div align="center">
+
+### Full-Stack Developer | SEO Consultant | Creative Technologist
   
 </div>
 
 
-### 💫 Full-Stack Developer | SEO Consultant | Creative Technologist
+
+
+
+
+<div align =" center">
+  <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JzNXBhdzE3OHFyaTJwbTlvMjdtMWg2dDF5eDlpMTZ0dzdraG41MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="200">
+  
+</div>
+
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F718&background=0D111700&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Optimizing+digital+visibility;Turning+ideas+into+reality;Creating+with+code+and+creativity)
 
-  <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwY24yc2syajFpaXo0Ynp6MW40cmF0bjQ0NGdjN3cyNnA2NzQxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif">
-  
-</div>
 
 
 ---
