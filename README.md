@@ -1,11 +1,7 @@
-<div align ="end">
-  
 
-
-</div>
 <div align="center">
 
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF5dHlnczR6cTZwczRlNGliYTUxbmZhbXNiMHBrcm40a3h4MmFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJpBcOBU3jLTerZepI/giphy.gif" width="80">  Nabil Lemriki  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZoYnU1dDRzc25maWwwb2V6c2dwdXY4MjZjNW1uaGp4ZmE1czJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3OvvEXh9MU5246asQl/giphy.gif" width="80"> <br> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=XDream-Dev.XDream-Dev)
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF5dHlnczR6cTZwczRlNGliYTUxbmZhbXNiMHBrcm40a3h4MmFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJpBcOBU3jLTerZepI/giphy.gif" width="60">  Nabil Lemriki  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZoYnU1dDRzc25maWwwb2V6c2dwdXY4MjZjNW1uaGp4ZmE1czJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3OvvEXh9MU5246asQl/giphy.gif" width="60"> <br> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=XDream-Dev.XDream-Dev)
 
 <div align="center">
 
