@@ -1,20 +1,33 @@
-
 <div align="center">
 
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF5dHlnczR6cTZwczRlNGliYTUxbmZhbXNiMHBrcm40a3h4MmFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJpBcOBU3jLTerZepI/giphy.gif" width="60">  Nabil Lemriki  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZoYnU1dDRzc25maWwwb2V6c2dwdXY4MjZjNW1uaGp4ZmE1czJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3OvvEXh9MU5246asQl/giphy.gif" width="60"> <br> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=XDream-Dev.XDream-Dev)
+<!-- Responsive Title with Animated Icons -->
+<h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF5dHlnczR6cTZwczRlNGliYTUxbmZhbXNiMHBrcm40a3h4MmFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJpBcOBU3jLTerZepI/giphy.gif" width="40" height="40" alt="Code Icon">
+  Nabil Lemriki
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZoYnU1dDRzc25maWwwb2V6c2dwdXY4MjZjNW1uaGp4ZmE1czJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3OvvEXh9MU5246asQl/giphy.gif" width="40" height="40" alt="Tech Icon">
+</h1>
 
-<div align="center">
-
-### Full-Stack Developer | SEO Consultant | Creative Technologist 
+<!-- Visitor Counter - Responsive Version -->
+<div>
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=XDream-Dev.XDream-Dev&style=flat-square&label=Visitors&color=6a5acd)
   
 </div>
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=A2A3EC&background=0D111700&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Optimizing+digital+visibility;Turning+ideas+into+reality;Creating+with+code+and+creativity)
+<!-- Responsive Subtitle -->
+<h3>Full-Stack Developer | SEO Consultant | Creative Technologist</h3>
 
-<div align =" center">
-  <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JzNXBhdzE3OHFyaTJwbTlvMjdtMWg2dDF5eDlpMTZ0dzdraG41MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="200">
-  
+<!-- Typing Animation - Mobile Optimized -->
+<div style="max-width: 100%; overflow: hidden;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=A2A3EC&background=0D111700&center=true&vCenter=true&width=350&lines=Building+modern+web+experiences;Optimizing+digital+visibility;Turning+ideas+into+reality;Creating+with+code+and+creativity" alt="Typing animation">
 </div>
+
+<!-- Responsive Centered GIF -->
+<div style="display: flex; justify-content: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JzNXBhdzE3OHFyaTJwbTlvMjdtMWg2dDF5eDlpMTZ0dzdraG41MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="180" alt="Coding animation">
+</div>
+
+
 
 
 
@@ -57,7 +70,7 @@
 [![SEMrush](https://img.shields.io/badge/-SEMrush-FF6C37?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzUuNCAwIDAgNS40IDAgMTJzNS40IDEyIDEyIDEyIDEyLTUuNCAxMi0xMlMxOC42IDAgMTIgMHptMCAyMmMtNS41IDAtMTAtNC41LTEwLTEwUzYuNSAyIDEyIDJzMTAgNC41IDEwIDEwLTQuNSAxMC0xMCAxMHptMC0xOGMtNC40IDAtOCAzLjYtOCA4czMuNiA4IDggOCA4LTMuNiA4LThzLTMuNi04LTgtOHptMSAxM2gtMnYtN2gydjd6bTAtOWgtMnYtMmgydjJ6Ii8+PC9zdmc+&logoColor=white&labelColor=1A1A2E&borderWidth=1&borderColor=44475a&borderRadius=8)](https://semrush.com)
 </div>
 </div>
----
+
 
 ## 🌟 Specializations
 
