@@ -1,8 +1,8 @@
 
 <div align="center">
   
-# ✨ Nabil Lemriki ✨ <div align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=XDream-Dev.XDream-Dev)</div>
-
+# ✨ Nabil Lemriki ✨ 
+<div align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=XDream-Dev.XDream-Dev)</div>
 
 
 ### 💫 Full-Stack Developer | SEO Consultant | Creative Technologist
