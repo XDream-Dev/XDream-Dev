@@ -1,5 +1,10 @@
 <div align="center">
   
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=XDream-Dev.XDream-Dev)
+  
+</div>
+<div align="center">
+  
 # ✨ Nabil Lemriki ✨
 
 ### 💫 Full-Stack Developer | SEO Consultant | Creative Technologist
@@ -9,6 +14,7 @@
   <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwY24yc2syajFpaXo0Ynp6MW40cmF0bjQ0NGdjN3cyNnA2NzQxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif">
   
 </div>
+
 
 ---
 
