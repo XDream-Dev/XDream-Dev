@@ -78,7 +78,7 @@
   
 | Area              | Skills/Tools                                                                 |
 |-------------------|------------------------------------------------------------------------------|
-| **Frontend**      | React.js, Next.js, TailwindCSS, Material UI                                  |
+| **Frontend**      | React.js, Vite, TailwindCSS, Material UI, PHP                                |
 | **Backend**       | Django, Next.JS, ASP.NET, Laravel, REST APIs                                 |
 | **AI Tools**      | ChatGPT API, LangChain, OpenAI, Prompt Engineering                           |
 | **SEO Mastery**   | Ahrefs, SEMrush, Google Analytics, Technical SEO, Keyword Strategy           |
