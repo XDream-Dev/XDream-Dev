@@ -97,7 +97,7 @@
 | Project | Description | Tech Stack | Status |
 |---------|------------|------------|--------|
 | **[2AGROUPE.MA](https://2agroupe.ma/)** | Showcase website for a real estate & industrial company | WordPress, Custom PHP | 🟢 Live |
-| **[CallNext](https://callnext.ma)** | #1 Ranked call center services website | React, Django, PostgreSQL | 🟢 Live |
+| **[CallNext](https://callnext.ma)** | Business Process Outsourcing (BPO) Website | React, Django, PostgreSQL | 🟢 Live |
 | **[MIPROS](https://mipros.ma)** | Industrial manufacturing company website | WordPress, Custom Plugins Integration, Custom PHP | 🟢 Live |
 | **[IMG2PDF](https://xdream-dev.github.io/IMG2PDF/)** | Image to PDF conversion tool | HTML, Tailwind CSS, JS | 🟢 Live |
 | **[IJOB.MA](https://ijob.ma/)** | SEO-optimized website (1st page Google) Job board connecting recruiters | Ahrefs, Technical SEO, Keyword Strategy WordPress, Custom Plugins, Custom PHP | 🟢 Live |
