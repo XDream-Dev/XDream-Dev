@@ -79,10 +79,10 @@
 | Area              | Skills/Tools                                                                 |
 |-------------------|------------------------------------------------------------------------------|
 | **Frontend**      | React.js, Next.js, TailwindCSS, Material UI                                  |
-| **Backend**       | Django, ASP.NET, Laravel, REST APIs                                          |
+| **Backend**       | Django, Next.JS, ASP.NET, Laravel, REST APIs                                 |
 | **AI Tools**      | ChatGPT API, LangChain, OpenAI, Prompt Engineering                           |
 | **SEO Mastery**   | Ahrefs, SEMrush, Google Analytics, Technical SEO, Keyword Strategy           |
-| **Design**        | UI/UX Design, Brand Identity, Figma, Canva                                   |
+| **Design**        | UI/UX Design, Brand Identity, Adobe Illustrator, Figma, Canva                |
 
 </div>
 
@@ -96,9 +96,21 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|------------|------------|--------|
-| **[CallNext](https://callnext.ma)** | #1 Ranked call center services website | React, Django, PostgreSQL | ✅ Live |
-| **[MIPROS](https://mipros.ma)** | Industrial manufacturing company website | WordPress, Elementor, Custom PHP | ✅ Live |
-| **[HAJIR.MA](https://hajir.ma)** | SEO-optimized website (1st page Google) | React, Next.js, TailwindCSS | ✅ Live |
+| **[2AGROUPE.MA](https://2agroupe.ma/)** | Showcase website for a real estate & industrial company | WordPress, Custom PHP | 🟢 Live |
+| **[CallNext](https://callnext.ma)** | #1 Ranked call center services website | React, Django, PostgreSQL | 🟢 Live |
+| **[MIPROS](https://mipros.ma)** | Industrial manufacturing company website | WordPress, Custom Plugins Integration, Custom PHP | 🟢 Live |
+| **[IMG2PDF](https://xdream-dev.github.io/IMG2PDF/)** | Image to PDF conversion tool | HTML, Tailwind CSS, JS | 🟢 Live |
+| **[IJOB.MA](https://ijob.ma/)** | SEO-optimized website (1st page Google) Job board connecting recruiters | Ahrefs, Technical SEO, Keyword Strategy WordPress, Custom Plugins, Custom PHP | 🟢 Live |
+| **[HAJIR.MA](https://hajir.ma)** | SEO-optimized website (1st page Google) | Ahrefs, Technical SEO, Keyword Strategy WordPress, Custom Plugins, Custom PHP | 🟢 Live |
+| **[KING365tv](https://king365tv.dev/)** | SEO-optimized Website Abonnement IPTV N°1 en France | SEMrush, Google Analytics, Technical SEO | 🟢 Live |
+
+### 🔒 Private/Internal Projects
+
+| Project | Description | Tech Stack | Status |
+|---------|------------|------------|--------|
+| **Fitness Management** | Full-stack gym management system | ASP.NET, SQL Server | 🔐 Private |
+| **4K ABONNEMENT IPTV** | SEO-optimized Website Abonnement IPTV | SEMrush, Google Analytics, Technical SEO | 🔐 Private |
+| **HAPPY LEADER** | Branding & UI/UX designs | Figma , Adobe Illustrator (3D)  | 🎨 Design Only |
 
 ### 💡 Past Projects & Experiments
 
@@ -108,13 +120,6 @@
 | **Beauty Secrets** | Beauty services platform | WordPress, WooCommerce | ❌ Shut Down |
 | **Urabuy** | CMS-based shopping platform | PHP, JavaScript | ❌ Shut Down |
 
-### 🔒 Private/Internal Projects
-
-| Project | Description | Tech Stack | Status |
-|---------|------------|------------|--------|
-| **Fitness Management** | Full-stack gym management system | ASP.NET, SQL Server | 🔐 Private |
-| **IMG2PDF** | Image to PDF conversion tool | Python, Django | 🔐 Private |
-| **HAPPY LEADER** | Branding & UI/UX designs | Figma, Canva | 🎨 Design Only |
 
 </div>
 
