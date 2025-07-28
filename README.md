@@ -1,8 +1,4 @@
 <div align="center"> 
-
-### 📅 Last Year's Contributions
-
-
 <!-- Responsive Title with Animated Icons -->
 <h1>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF5dHlnczR6cTZwczRlNGliYTUxbmZhbXNiMHBrcm40a3h4MmFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJpBcOBU3jLTerZepI/giphy.gif" width="40" height="40" alt="Code Icon">
@@ -21,22 +17,22 @@
 <h3>Full-Stack Developer | SEO Consultant | Creative Technologist</h3>
 
 <!-- Typing Animation - Mobile Optimized -->
-<div style="max-width: 100%; overflow: hidden;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=A2A3EC&background=0D111700&center=true&vCenter=true&width=350&lines=Building+modern+web+experiences;Optimizing+digital+visibility;Turning+ideas+into+reality;Creating+with+code+and+creativity" alt="Typing animation">
-</div>
+
 
 <!-- Responsive Centered GIF -->
 <div style="display: flex; justify-content: center;">
   
-![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=XDream-Dev&theme=radical&hide_border=true&area=true&custom_title=My%20Year%20in%20Code)
-
+<!-- Dynamic GitHub Activity Graph -->
+<a href="https://github.com/XDream-Dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XDream-Dev&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&line=8A2BE2&point=FF69B4&color=9370DB&title_color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XDream-Dev&theme=github-light&hide_border=true&area=true&line=6A5ACD&point=FF1493&color=4169E1&title_color=000000" />
+    <img alt="GitHub Dynamic Contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=XDream-Dev&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&line=8A2BE2&point=FF69B4&color=9370DB&title_color=FFFFFF" />
+  </picture>
+</a>
+</div>
 </div>
 
-
-
-
-
----
 
 ## 🔮 Tech Stack Superpower
 
