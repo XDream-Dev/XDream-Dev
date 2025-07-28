@@ -1,4 +1,7 @@
-<div align="center">
+<div align="center"> 
+
+### 📅 Last Year's Contributions
+
 
 <!-- Responsive Title with Animated Icons -->
 <h1>
@@ -24,7 +27,9 @@
 
 <!-- Responsive Centered GIF -->
 <div style="display: flex; justify-content: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JzNXBhdzE3OHFyaTJwbTlvMjdtMWg2dDF5eDlpMTZ0dzdraG41MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="180" alt="Coding animation">
+  
+![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=XDream-Dev&theme=radical&hide_border=true&area=true&custom_title=My%20Year%20in%20Code)
+
 </div>
 
 
