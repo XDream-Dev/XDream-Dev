@@ -22,6 +22,7 @@
 <!-- Responsive Centered GIF -->
 <div style="display: flex; justify-content: center;">
   
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=A2A3EC&background=0D111700&center=true&vCenter=true&width=600&height=80&lines=Building+digital+experiences+with+magic;Pixel-perfect+design+meets+clean+code;SEO-optimized+for+maximum+visibility;From+concept+to+deployment+✨;Where+creativity+meets+functionality)](https://git.io/typing-svg)  
 <!-- Dynamic GitHub Activity Graph -->
 <a href="https://github.com/XDream-Dev">
   <picture>
