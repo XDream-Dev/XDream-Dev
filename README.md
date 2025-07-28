@@ -20,11 +20,10 @@
 
 
 <!-- Responsive Centered GIF -->
-<div style="display: flex; justify-content: center;">
-  
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=A2A3EC&background=0D111700&center=true&vCenter=true&width=600&height=80&lines=Building+digital+experiences+with+magic;Pixel-perfect+design+meets+clean+code;SEO-optimized+for+maximum+visibility;From+concept+to+deployment+✨;Where+creativity+meets+functionality)](https://git.io/typing-svg)  
+<div style="display: flex; justify-content: center;">  
 <!-- Dynamic GitHub Activity Graph -->
 <a href="https://github.com/XDream-Dev">
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XDream-Dev&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&line=8A2BE2&point=FF69B4&color=9370DB&title_color=FFFFFF" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XDream-Dev&theme=github-light&hide_border=true&area=true&line=6A5ACD&point=FF1493&color=4169E1&title_color=000000" />
@@ -34,6 +33,10 @@
 </div>
 </div>
 
+<div align="center">
+  
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=A2A3EC&background=0D111700&center=true&vCenter=true&width=600&height=80&lines=Building+digital+experiences+with+magic;Pixel-perfect+design+meets+clean+code;SEO-optimized+for+maximum+visibility;From+concept+to+deployment+✨;Where+creativity+meets+functionality)](https://git.io/typing-svg)  
+</div>
 
 ## 🔮 Tech Stack Superpower
 
