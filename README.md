@@ -99,11 +99,11 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|------------|------------|--------|
+| **[IMG2PDF](https://xdream-dev.github.io/IMG2PDF/)** | Image to PDF conversion tool | HTML, Tailwind CSS, JS | 🟢 Live |
+| **[BYTEBATTLE](https://xdream-dev.github.io/bytebattle/)** | AI-powered quiz app with multi-language support, adaptive difficulty, and global leaderboards. Built with Next.js 15, TypeScript, and Tailwind CSS. | Next.js, TypeScript, Tailwind CSS | 🟢 Live |
 | **[2AGROUPE.MA](https://2agroupe.ma/)** | Showcase website for a real estate & industrial company | WordPress, Custom PHP | 🟢 Live |
 | **[CallNext](https://callnext.ma)** | Business Process Outsourcing (BPO) Website | React, Django, PostgreSQL | 🟢 Live |
 | **[MIPROS](https://mipros.ma)** | Industrial manufacturing company website | WordPress, Custom Plugins Integration, Custom PHP | 🟢 Live |
-| **[IMG2PDF](https://xdream-dev.github.io/IMG2PDF/)** | Image to PDF conversion tool | HTML, Tailwind CSS, JS | 🟢 Live |
-| **[BYTEBATTLE](https://xdream-dev.github.io/bytebattle/)** | AI-powered quiz app with multi-language support, adaptive difficulty, and global leaderboards. Built with Next.js 15, TypeScript, and Tailwind CSS. | Next.js, TypeScript, Tailwind CSS | 🟢 Live |
 | **[IJOB.MA](https://ijob.ma/)** | SEO-optimized website (1st page Google) Job board connecting recruiters | Ahrefs, Technical SEO, Keyword Strategy WordPress, Custom Plugins, Custom PHP | 🟢 Live |
 | **[HAJIR.MA](https://hajir.ma)** | SEO-optimized website (1st page Google) | Ahrefs, Technical SEO, Keyword Strategy WordPress, Custom Plugins, Custom PHP | 🟢 Live |
 | **[KING365tv](https://king365tv.dev/)** | SEO-optimized Website Abonnement IPTV N°1 en France | SEMrush, Google Analytics, Technical SEO | 🟢 Live |
