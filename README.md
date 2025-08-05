@@ -120,6 +120,7 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|------------|------------|--------|
+| **Invoice Tracker** |  Web-App for invoice system solution | Django, Html, CSS, JavaScript,MySQL | [Visit Repo](https://github.com/XDream-Dev/invoice-django-System) |
 | **BricoLine** | Platform for household services | Laravel, MySQL | ❌ Shut Down |
 | **Beauty Secrets** | Beauty services platform | WordPress, WooCommerce | ❌ Shut Down |
 | **Urabuy** | CMS-based shopping platform | PHP, JavaScript | ❌ Shut Down |
