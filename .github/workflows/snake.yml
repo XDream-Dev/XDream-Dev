@@ -1,26 +1,32 @@
 name: Generate Snake
 
+# Run every 6 hours and manually
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# Required permission to push to branches
 permissions:
-  contents: write   # 👈 allow pushing to branches
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Checkout the repository
       - uses: actions/checkout@v3
 
+      # Generate the contribution snake with transparent background
       - uses: Platane/snk@v3
         with:
           github_user_name: XDream-Dev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          theme: transparent   # 👈 transparent background
 
+      # Push the generated files to the 'output' branch
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
