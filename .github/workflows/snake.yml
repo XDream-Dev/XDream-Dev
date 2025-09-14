@@ -2,9 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 allow pushing to branches
 
 jobs:
   build:
@@ -12,7 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Generate the snake
       - uses: Platane/snk@v3
         with:
           github_user_name: XDream-Dev
@@ -20,7 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      # Deploy to branch "output"
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
