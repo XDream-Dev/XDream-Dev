@@ -17,14 +17,10 @@
 <h3>Full-Stack Developer | SEO Consultant | Creative Technologist</h3>
 
 <!-- Responsive Centered GIF -->
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
-<!-- Typing Animation - Mobile Optimized -->
 <div align="center">
   
-![snake gif](https://github.com/XDream-Dev/XDream-Dev/blob/output/github-contribution-grid-snake.gif)
+  ![Contribution Snake](https://raw.githubusercontent.com/XDream-Dev/XDream-Dev/output/github-contribution-grid-snake.svg)
 </div>
-
 ---
 
 ## 🔮 Tech Stack Superpower
